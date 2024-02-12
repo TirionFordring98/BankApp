@@ -1,0 +1,40 @@
+.breakdown-container {
+  margin: 20px;
+}
+
+.breakdown-heading {
+  margin-bottom: 10px;
+}
+
+.breakdown-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.breakdown-header {
+  text-align: left;
+  padding: 8px;
+  background-color: #180202;
+  border-bottom: 1px solid #ddd;
+}
+
+.breakdown-row {
+  border-bottom: 1px solid #ddd;
+}
+
+.breakdown-category {
+  padding: 8px;
+  border-right: 1px solid #ddd;
+}
+
+.breakdown-amount {
+  padding: 8px;
+}
+
+.breakdown-amount.negative {
+  color: red;
+}
+
+.breakdown-amount.positive {
+  color: green;
+}

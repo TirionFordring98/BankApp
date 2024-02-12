@@ -1,0 +1,12 @@
+.transaction-sum-container {
+  margin-top: 20px;
+}
+
+.transaction-sum-list {
+  list-style: none;
+  padding: 0;
+}
+
+.transaction-sum-item {
+  margin-bottom: 10px;
+}
